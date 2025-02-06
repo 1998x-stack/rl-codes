@@ -1,0 +1,8 @@
+# requirements.txt
+torch
+torchvision
+gym[all]
+mujoco
+tensorboardX
+loguru
+numpy==1.23.5
