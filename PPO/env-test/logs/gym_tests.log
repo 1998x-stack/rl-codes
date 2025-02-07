@@ -1,0 +1,56 @@
+2025-02-06 10:48:53 | INFO | Starting test for CartPole-v1
+2025-02-06 10:48:53 | INFO | Action: 1 | State: [-0.02403107  0.16252436 -0.00828269 -0.26663858] | Reward: 1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 1 | State: [-0.02078058  0.35776353 -0.01361546 -0.5619224 ] | Reward: 1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 0 | State: [-0.01362531  0.16283529 -0.02485391 -0.2735599 ] | Reward: 1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 0 | State: [-0.01036861 -0.03192339 -0.03032511  0.01118157] | Reward: 1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 1 | State: [-0.01100707  0.16362004 -0.03010148 -0.29091293] | Reward: 1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 1 | State: [-0.00773467  0.35915798 -0.03591974 -0.5929355 ] | Reward: 1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 1 | State: [-5.5151212e-04  5.5476385e-01 -4.7778446e-02 -8.9671314e-01] | Reward: 1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 1 | State: [ 0.01054377  0.75049984 -0.06571271 -1.2040236 ] | Reward: 1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 1 | State: [ 0.02555376  0.94640684 -0.08979318 -1.5165554 ] | Reward: 1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 0 | State: [ 0.0444819   0.7524786  -0.12012429 -1.2531989 ] | Reward: 1.0 | Done: False
+2025-02-06 10:48:53 | SUCCESS | Successfully tested environment: CartPole-v1
+2025-02-06 10:48:53 | INFO | Starting test for MountainCar-v0
+2025-02-06 10:48:53 | INFO | Action: 1 | State: [-4.9342400e-01 -2.2770256e-04] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 1 | State: [-4.938777e-01 -4.537044e-04] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 2 | State: [-4.9355403e-01  3.2368282e-04] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 1 | State: [-4.9345538e-01  9.8652170e-05] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 1 | State: [-4.9358249e-01 -1.2711536e-04] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 2 | State: [-0.4929344   0.00064807] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 1 | State: [-4.9251601e-01  4.1840816e-04] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 0 | State: [-0.4933304  -0.00081437] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 0 | State: [-0.49537146 -0.00204108] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 2 | State: [-0.496624   -0.00125253] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | SUCCESS | Successfully tested environment: MountainCar-v0
+2025-02-06 10:48:53 | INFO | Starting test for Pendulum-v0
+2025-02-06 10:48:53 | ERROR | Failed to test environment Pendulum-v0: Environment version v0 for `Pendulum` is deprecated. Please use `Pendulum-v1` instead.
+2025-02-06 10:48:53 | INFO | Starting test for Acrobot-v1
+2025-02-06 10:48:53 | INFO | Action: 0 | State: [ 0.9972375   0.07427915  0.9985996   0.05290436  0.10079357 -0.38384447] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 2 | State: [ 0.9974174   0.07182314  0.99988526  0.01514825 -0.12581208  0.01165547] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 1 | State: [ 0.9992264   0.03932687  0.9997659   0.02163813 -0.19280067  0.04701249] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 2 | State: [ 0.9998845  -0.01519873  0.9978797   0.06508555 -0.33991268  0.3714738 ] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 1 | State: [ 0.99704903 -0.07676759  0.9920118   0.1261451  -0.26229107  0.22229408] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 0 | State: [ 0.994802   -0.10182826  0.9935658   0.11325616  0.01506435 -0.35305926] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 0 | State: [ 0.9974224  -0.07175379  0.99995106 -0.0098939   0.27653214 -0.85444295] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 1 | State: [ 0.9999344  -0.01145463  0.9841216  -0.17749557  0.30943283 -0.7924223 ] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 2 | State: [ 0.999492    0.03187138  0.96154004 -0.27466476  0.11323613 -0.18434206] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 1 | State: [ 0.99900275  0.04464825  0.96042985 -0.2785219   0.0120504   0.1465109 ] | Reward: -1.0 | Done: False
+2025-02-06 10:48:53 | SUCCESS | Successfully tested environment: Acrobot-v1
+2025-02-06 10:48:53 | INFO | Starting test for LunarLander-v2
+2025-02-06 10:48:53 | ERROR | Failed to test environment LunarLander-v2: box2D is not installed, run `pip install gym[box2d]`
+2025-02-06 10:48:53 | INFO | Starting test for FrozenLake-v1
+2025-02-06 10:48:53 | INFO | Action: 2 | State: 1 | Reward: 0.0 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 0 | State: 5 | Reward: 0.0 | Done: True
+2025-02-06 10:48:53 | SUCCESS | Successfully tested environment: FrozenLake-v1
+2025-02-06 10:48:53 | INFO | Starting test for Taxi-v3
+2025-02-06 10:48:53 | INFO | Action: 0 | State: 461 | Reward: -1 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 5 | State: 461 | Reward: -10 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 0 | State: 461 | Reward: -1 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 2 | State: 481 | Reward: -1 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 3 | State: 461 | Reward: -1 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 0 | State: 461 | Reward: -1 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 5 | State: 461 | Reward: -10 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 5 | State: 461 | Reward: -10 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 5 | State: 461 | Reward: -10 | Done: False
+2025-02-06 10:48:53 | INFO | Action: 1 | State: 361 | Reward: -1 | Done: False
+2025-02-06 10:48:53 | SUCCESS | Successfully tested environment: Taxi-v3
